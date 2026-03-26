@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Nandhini</h1>
 <h3 align="center">Java Developer | Web Developer | Biomedical Engineer</h3>
 
