@@ -12,21 +12,21 @@
 ---
 
 ## 🛠️ Tech Stack
-- 💻 Languages: Java, JavaScript  
-- 🌐 Frontend: HTML, CSS  
-- ⚙️ Backend: Java (Learning)  
-- 🗄️ Tools: Git, GitHub  
+- 💻 Languages: Java, JavaScript
+- 🌐 Frontend: HTML, CSS
+- ⚙️ Backend: Java (Learning)
+- 🗄️ Tools: Git, GitHub
 
 ---
 
 ## 🚀 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=Nandhini4706&show_icons=true&theme=tokyonight&cache_seconds=0" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nandhini4706&show_icons=true&theme=tokyonight)
 
 ## 🔥 Streak Stats
-<img src="https://streak-stats.demolab.com/?user=Nandhini4706&theme=tokyonight" />
+![GitHub Streak](https://streak-stats.demolab.com/?user=Nandhini4706&theme=tokyonight)
 
 ## 📊 Top Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandhini4706&layout=compact&theme=tokyonight&cache_seconds=0" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nandhini4706&layout=compact&theme=tokyonight)
 
 ---
 
@@ -38,6 +38,6 @@
 ---
 
 ## 🎯 Future Goals
-- Build real-world projects 💡  
-- Crack product-based companies 💼  
-- Combine Biomedical + Software 🚀  
+- Build real-world projects 💡
+- Crack product-based companies 💼
+- Combine Biomedical + Software 🚀
