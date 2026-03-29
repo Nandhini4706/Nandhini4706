@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nandhini</h1>
-<h3 align="center">Java Developer | Backend Developer | Biomedical Engineer</h3>
+<h3 align="center">Java Developer | Backend Developer | Web Developer | Biomedical Engineer</h3>
 
 ---
 
