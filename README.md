@@ -22,8 +22,6 @@
 ## 🚀 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nandhini4706&show_icons=true&theme=tokyonight)
 
-## 🚀 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=Nandhini4706&show_icons=true&theme=tokyonight&cache_seconds=86400" />
 
 ## 🔥 Streak Stats
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Nandhini4706&theme=tokyonight)
