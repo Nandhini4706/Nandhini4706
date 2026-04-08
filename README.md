@@ -14,7 +14,7 @@
 ## 🛠️ Tech Stack
 - 💻 Languages: Java, JavaScript
 - 🌐 Frontend: HTML, CSS, TailWind CSS
-- ⚙️ Backend: Java
+- ⚙️ Backend: Java, SpringBoot
 - 🗄️ Tools: Git, GitHub
 
 ---
