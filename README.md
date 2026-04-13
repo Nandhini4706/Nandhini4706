@@ -15,7 +15,7 @@
 - 💻 Languages: Java, JavaScript
 - 🌐 Frontend: HTML, CSS, TailWind CSS
 - ⚙️ Backend: Java, SpringBoot
-- 🗄️ Tools: Git, GitHub
+- 🗄️ Tools: Git, GitHub , AWS
 
 ---
 
