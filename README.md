@@ -32,7 +32,7 @@
 
 ## 🌱 Currently Learning
 - Java Programming (DSA + OOP)
-- JavaScript Basics
+- React Js
 - Full Stack Development
 
 ---
