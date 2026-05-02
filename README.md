@@ -33,6 +33,7 @@
 ## 🌱 Currently Learning
 - Java Programming (DSA + OOP)
 - React Js
+- SpringBoot
 - Full Stack Development
 
 ---
